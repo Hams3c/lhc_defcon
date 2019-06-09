@@ -1,2 +1,2 @@
-# dc26
+# DefCon
 Repository of LHC DefCon logos.
