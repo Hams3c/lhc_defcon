@@ -1,2 +1,2 @@
 # dc26
-Repository of things for Defcon 26.
+Repository of LHC DefCon logos.
